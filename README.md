@@ -1,5 +1,21 @@
 # Floor Plan Card (Home Twin)
 
+![Floor Plan Card preview](docs/images/preview.png)
+
+*Rendered from the card code with example data (no real Home Assistant). Sample apartment.*
+
+<details><summary>More screenshots</summary>
+
+**3D view**
+
+![Floor Plan Card – 3D view](docs/images/3d-view.png)
+
+**Built-in editor**
+
+![Floor Plan Card – Built-in editor](docs/images/editor.png)
+
+</details>
+
 A central, editable floor plan of your home for Home Assistant – a "digital twin" in 2D and 3D.
 Draw floors, rooms, walls, windows/doors, outdoor areas and furniture in the built-in editor, place devices
 (lights, switches, thermostats, sensors, motion detectors, BLE positions) and show live states. Wall tablets
